@@ -1,0 +1,208 @@
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\obj\Debug\Interop.ASmsCtrl.dll
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\obj\Debug\Interop.ASmsCtrl.dll
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\2014 Projects\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\obj\Debug\Interop.ASmsCtrl.dll
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\TORUS-021\Desktop\Performance Improvement in Education Sector Project\PROJECT\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\bin\educationSector.dll
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\bin\educationSector.pdb
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\ASP.NET PROJECTS\EDUCATION SECTOR\PROJECT\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\Student Mining\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+F:\MIT Student Mining Project\Project\educationSector\educationSector\bin\educationSector.dll
+F:\MIT Student Mining Project\Project\educationSector\educationSector\bin\educationSector.pdb
+F:\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+F:\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+F:\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\MIT Student Mining Project\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\bin\educationSector.dll
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\My Projects\Student Performance Improvement\Project\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\bin\educationSector.dll
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\ARUN\SHAREit\Files\Student Mining Project with Reporting (1)\Student Mining Project with Reporting\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2015-2016\Projects\Education Sector\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2015-2016\Projects\Education Sector\Others\Shruthi\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\bin\educationSector.dll
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\bin\educationSector.pdb
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Mtech 4th sem Project HW\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\bin\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\bin\educationSector.pdb
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Documents and Settings\MADHU-PC\Desktop\29_03_2016(Final Marks , reporting updated)\29_03_2016(Final Marks , reporting updated)\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2016-2017\Projects\SAS\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Project\Others\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\template Change Placement Prediction\Roy\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\bin\educationSector.dll
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\VAJRM\Desktop\ROY\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\bin\educationSector.dll
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\VAJRM\Desktop\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\bin\educationSector.dll
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\bin\educationSector.pdb
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\ROYVINOY\MY_PROJECT\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\Student Placement Prediction\Roy and Rizwan\Placememnt prediction\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\bin\educationSector.dll
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\win7\Desktop\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Result and Course Suggestion\Others\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Class Result Prediction\Others\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Final\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Final\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Final\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Final\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Final\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes Final\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.csproj.ResolveComReference.cache
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Madhura\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Madhura\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Madhura\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Madhura\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2018-2019\Projects\Placement Analyzer\Others\Madhura\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Placement Analyzer Naive Bayes KNN Final\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.dll
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\Academic 2019-2020\IEEE Projects\Student Placement Analyzer A Recommendation System Using Machine Learning\Project\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+J:\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.dll
+J:\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.pdb
+J:\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+J:\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+J:\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+C:\Users\user\Desktop\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.dll
+C:\Users\user\Desktop\Shreyas and Sumanth\Project\educationSector\educationSector\bin\educationSector.pdb
+C:\Users\user\Desktop\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+C:\Users\user\Desktop\Shreyas and Sumanth\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
+D:\PDF\FINAL YEAR PROJECT\Our Project\Complet Project\Project\educationSector\educationSector\bin\educationSector.dll
+D:\PDF\FINAL YEAR PROJECT\Our Project\Complet Project\Project\educationSector\educationSector\bin\educationSector.pdb
+D:\PDF\FINAL YEAR PROJECT\Our Project\Complet Project\Project\educationSector\educationSector\obj\Debug\educationSector.csprojResolveAssemblyReference.cache
+D:\PDF\FINAL YEAR PROJECT\Our Project\Complet Project\Project\educationSector\educationSector\obj\Debug\educationSector.dll
+D:\PDF\FINAL YEAR PROJECT\Our Project\Complet Project\Project\educationSector\educationSector\obj\Debug\educationSector.pdb
